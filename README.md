@@ -1,1 +1,2 @@
 # workout_tracker
+The purpose of this application is a a fitness tracker that tracks workouts and the exercises the user completed for that session. Additionally, this application records the amount of weight lifted, reps, distance, and duration. This application utilizes mongoDB, Mongoose, Javascript, HTML/CSS, and Express.
